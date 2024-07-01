@@ -8,5 +8,7 @@ for (let i = 0; i < 6; i++) {
 
     //creo il prompt
     let userNumber = prompt('inserisci un numero');
-    console.log(userNumber)
+
+    // converto il valore inserito dall utenter nel prompt in un numero
+    let number = Number(userNumber);
 }
