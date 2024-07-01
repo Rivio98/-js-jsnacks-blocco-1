@@ -4,4 +4,6 @@
 
 3 ciclo il prompt e recupero i numeri inseriti
 
-4 se i numeri inseriti sono dispari, li inserisco nell'array
+4 i prompt dell utente li converto in numeri
+
+5 se i numeri inseriti sono dispari, li inserisco nell'array
